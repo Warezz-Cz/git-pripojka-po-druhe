@@ -23,9 +23,9 @@ int main(void)
     uint32_t time = 0;
 
     init();
-
+// gg kurwa furt to nejede
     while (1) {
-        if (milis() - time > 333 ) {
+        if (milis() - time > 69 ) {
             REVERSE(LED); 
             time = milis();
             //printf("%ld\n", time);
